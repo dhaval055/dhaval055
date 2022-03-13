@@ -1,5 +1,5 @@
 ### Hey! I'm Dhaval.
-#### I'm a Software Developer from Ahmedabad, India. For the most of the time I work in python analysing and automating things.Besides develpoing I also play around with building CI/CD workflows and cloud infrastuctre provisioning. Working as a developer in cyber security firm has given me exposure to security part of the tech world and I am trying to make most out of it. :)
+#### I'm a Software Developer from Ahmedabad, India. For the most of the time I work in python analysing and automating things. Besides develpoing I also play around with building CI/CD workflows and cloud infrastructre provisioning. Working as a developer in cyber security firm has given me exposure to security part of the tech world and I am trying to make most out of it. :)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/dhavaldave055)
 
